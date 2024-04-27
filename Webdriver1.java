@@ -20,6 +20,8 @@ public class Webdriver1
 		System.out.println("The Output of the IsDisplayed " +  driver.findElement(By.id("cpayoff1")).isDisplayed());  
 		driver.close();       
 		// Close the Browser.    
-		driver.close();     
+		driver.close();   
+
+	  
 }
 }
